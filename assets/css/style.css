@@ -486,11 +486,12 @@ nav.navbar.bootsnav {
     display: inline-block;
     margin: 0 6px 20px;
     background-color: #f7f7f9;
-    border-radius: 50%;
-    width: 55px;
+    width: auto;
     height: 55px;
     line-height: 56px;
     color: #fc6f5c;
+    padding-left: 8px;
+    padding-right: 8px;
 }
 
 .portfolio-overlay h5 {
