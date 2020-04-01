@@ -487,7 +487,7 @@ nav.navbar.bootsnav {
     margin: 0 6px 20px;
     background-color: #f7f7f9;
     width: auto;
-    height: 55px;
+    height: auto;
     line-height: 56px;
     color: #fc6f5c;
     padding-left: 8px;
