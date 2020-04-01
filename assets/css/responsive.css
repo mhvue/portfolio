@@ -166,7 +166,7 @@
         margin: 25px 0 0;
     }
     .welcome-btn a {
-        padding: 8px 14px;
+        padding: 8px 10px; /*changed to 10px 3/31/20 */ 
     }
     .heading h2 {
         margin: 0 0 20px;
@@ -338,3 +338,20 @@
         margin: 30px 0 0;
     }
 }
+
+
+/* additional responsive needed  after personalizing template*/
+@media only screen and (max-width: 1198px) {
+    .welcome-btn a {
+        margin-bottom: 5px;
+    }
+}
+
+@media only screen and (max-width: 766px ){
+    .img-responsive {
+        width: 500px;
+        margin: auto;
+    }
+}
+
+
