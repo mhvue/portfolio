@@ -917,16 +917,21 @@ nav.navbar.bootsnav {
     background-color: #FC6F5C
 }
 
-#liriNode {
-    margin-top: 40px;
+#nodeSql {
+    margin-top: 25px;
 }
 
 #burger, #friendFinder {
     margin-top: 20px;
 }
 
+#liriNode {
+    margin-left: 22px;
+}
 
 .img-responsive {
     margin-left: 15px;
     margin-right: 15px;
+    
 }
+
