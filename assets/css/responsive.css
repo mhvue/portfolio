@@ -363,7 +363,7 @@
 
     #liriNode {
         margin-top:58px;
-        width: 300px;
+        /* width: 300px; */
     }
 
     .bottomPortfolio{
@@ -382,4 +382,8 @@
     }
 }
 
-
+@media only screen and (min-width: 531px) {
+    .img-responsive{
+        width: 300px;
+    }
+}
