@@ -933,9 +933,9 @@ nav.navbar.bootsnav {
     margin-top: 45px;
 }
 
-#burger, #friendFinder {
+/* #burger, #friendFinder {
     margin-top: 40px;
-}
+} */
 
 #liriNode {
     margin-left: 22px;
@@ -946,4 +946,10 @@ nav.navbar.bootsnav {
     margin-right: 15px;
     
 }
+.projectImg{
+    text-align: center;
+}
 
+.projectInfo{
+    padding: 10px;
+}
